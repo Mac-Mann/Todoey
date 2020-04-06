@@ -1,0 +1,19 @@
+{
+  "name": "todoey",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mac-Mann/Todoey.git"
+  },
+  "author": "Mac Goldman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Mac-Mann/Todoey/issues"
+  },
+  "homepage": "https://github.com/Mac-Mann/Todoey#readme"
+}
